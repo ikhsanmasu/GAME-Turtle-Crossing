@@ -1,5 +1,6 @@
 # GAME-Turtle-Crossing
 Make the turtle cross the road safely
+Download the exe file on GitHub to play it
 
 ![image](https://github.com/ikhsanmasu/GAME-Turtle-Crossing/assets/76894210/1d720dbb-942b-4f1f-9c74-7c5d6c15456e)
 
